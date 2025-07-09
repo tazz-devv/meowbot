@@ -36,6 +36,7 @@ node index.js
 # Commands:
 ## **Cat Commands**
 
+```bash
 /adopt - Get your virtual cat
 
 /feed /pet /play - Care for your cat
@@ -45,9 +46,10 @@ node index.js
 /duel - Battle other cats
 
 /catpic /catfact - Fun cat content
+```
 
 ## **Moderation**
-
+```bash
 /scratch @user - Timeout users
 
 /hiss @user - Issue warnings
@@ -57,6 +59,8 @@ node index.js
 /purge - Bulk delete messages
 
 /lock - Lock channels
+
+```
 
 ## Support
 
