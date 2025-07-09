@@ -5,7 +5,7 @@
   
   <p>A feature-packed Discord bot that lets users adopt and care for virtual cats<br>while providing decent moderation tools.</p>
 
-  [![Add to Discord](https://img.shields.io/badge/Add%20to%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1375700760683085884&permissions=1651687581718&integration_type=0&scope=bot)
+  [![Add to Discord Server](https://img.shields.io/badge/Add%20to%20Discord%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1375700760683085884&permissions=1651687581718&integration_type=0&scope=bot)
 </div>
 
 
